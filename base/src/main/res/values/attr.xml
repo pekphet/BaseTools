@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ThumbFixedRecyclerView">
+        <attr name="thumbLen" format="dimension" />
+    </declare-styleable>
+
+
+    <declare-styleable name="DrawableSizedTextView">
+        <attr name="drawableLeft" format="reference" />
+        <attr name="drawableBottom" format="reference" />
+        <attr name="drawableRight" format="reference" />
+        <attr name="drawableTop" format="reference" />
+        <attr name="drawableWidth" format="dimension" />
+        <attr name="drawableHeight" format="dimension" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,1 @@
+-keep public class com.pekphet.base.net.Requester {*;}

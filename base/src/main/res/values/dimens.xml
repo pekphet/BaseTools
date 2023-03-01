@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- COMMONS -->
+    <dimen name="g0q">2dp</dimen>
+    <dimen name="g0h">4dp</dimen>
+    <dimen name="g0hq">6dp</dimen>
+    <dimen name="g1">8dp</dimen>
+    <dimen name="g1q">10dp</dimen>
+    <dimen name="g1h">12dp</dimen>
+    <dimen name="g1hq">14dp</dimen>
+    <dimen name="g2">16dp</dimen>
+    <dimen name="g2q">18dp</dimen>
+    <dimen name="g2h">20dp</dimen>
+    <dimen name="g2hq">22dp</dimen>
+    <dimen name="g3">24dp</dimen>
+    <dimen name="g3h">28dp</dimen>
+    <dimen name="g3q">26dp</dimen>
+    <dimen name="g3hq">30dp</dimen>
+    <dimen name="g4">32dp</dimen>
+    <dimen name="g4q">34dp</dimen>
+    <dimen name="g4h">36dp</dimen>
+    <dimen name="g5">40dp</dimen>
+    <dimen name="g5h">44dp</dimen>
+    <dimen name="g5hq">46dp</dimen>
+    <dimen name="g6">48dp</dimen>
+    <dimen name="g6q">50dp</dimen>
+    <dimen name="g6h">52dp</dimen>
+    <dimen name="g7">56dp</dimen>
+    <dimen name="g7q">58dp</dimen>
+    <dimen name="g7h">60dp</dimen>
+    <dimen name="g8">64dp</dimen>
+    <dimen name="g9">72dp</dimen>
+    <dimen name="g9h">76dp</dimen>
+    <dimen name="g10">80dp</dimen>
+    <dimen name="g11">88dp</dimen>
+    <dimen name="g11h">92dp</dimen>
+    <dimen name="g12">96dp</dimen>
+    <dimen name="g12h">100dp</dimen>
+    <dimen name="g13">104dp</dimen>
+    <dimen name="g15">120dp</dimen>
+    <dimen name="g17h">140dp</dimen>
+    <dimen name="g18">144dp</dimen>
+    <dimen name="g20">160dp</dimen>
+    <dimen name="g26">208dp</dimen>
+    <dimen name="g28">224dp</dimen>
+    <dimen name="g28h">228dp</dimen>
+    <dimen name="g32">256dp</dimen>
+    <dimen name="g37">296dp</dimen>
+
+    <!--  text size  -->
+    <dimen name="t9sp">9sp</dimen>
+    <dimen name="t10sp">10sp</dimen>
+    <dimen name="t12sp">12sp</dimen>
+    <dimen name="t13sp">13sp</dimen>
+    <dimen name="t14sp">14sp</dimen>
+    <dimen name="t15sp">15sp</dimen>
+    <dimen name="t16sp">16sp</dimen>
+    <dimen name="t17sp">17sp</dimen>
+    <dimen name="t18sp">18sp</dimen>
+    <dimen name="t19sp">19sp</dimen>
+    <dimen name="t20sp">20sp</dimen>
+    <dimen name="t22sp">22sp</dimen>
+    <dimen name="t24sp">24sp</dimen>
+    <dimen name="t25sp">25sp</dimen>
+    <dimen name="t28sp">28sp</dimen>
+    <dimen name="t29sp">29sp</dimen>
+    <dimen name="t30sp">30sp</dimen>
+
+    <!-- SPECIAL DPS -->
+    <dimen name="d92">92dp</dimen>
+    <dimen name="d150">150dp</dimen>
+    <dimen name="d184">184dp</dimen>
+    <dimen name="d200">200dp</dimen>
+    <dimen name="d300">300dp</dimen>
+    <dimen name="d432">432dp</dimen>
+    <dimen name="d550">550dp</dimen>
+
+    <dimen name="d106">106dp</dimen>
+    <dimen name="d194">194dp</dimen>
+
+    <!-- SPECIAL DIMENS -->
+    <dimen name="bar_height">44dp</dimen>
+    <dimen name="drawer_width">240dp</dimen>
+    <dimen name="grid_file_height">141dp</dimen>
+
+    <dimen name="item_file_icon_w">33dp</dimen>
+    <dimen name="item_file_icon_h">44dp</dimen>
+    <dimen name="item_file_content_maxw">280dp</dimen>
+
+    <dimen name="dialog_w">260dp</dimen>
+    <dimen name="dialog_h">140dp</dimen>
+
+    <dimen name="bar_notebook_h">90dp</dimen>
+
+    <dimen name="line">1px</dimen>
+    <dimen name="line2">0.5dp</dimen>
+
+    <dimen name="default_min_text_size">6sp</dimen>
+    <dimen name="default_min_text_step">1sp</dimen>
+
+    <dimen name="ex_dp3">3dp</dimen>
+
+    <dimen name="r13">13dp</dimen>
+
+    <dimen name="nav_height">56dp</dimen>
+</resources>
